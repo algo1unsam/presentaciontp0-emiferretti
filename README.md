@@ -20,7 +20,7 @@ Si hay un mate, seguro este alrededor de ahi!
 
 Foto de mi persona:
 
-![d]https://i.postimg.cc/d39GpYMS/remo.jpg
+![d](https://i.postimg.cc/d39GpYMS/remo.jpg)
 
 
 
